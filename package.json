@@ -1,0 +1,25 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schislyaev/JS_EDU_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Schislyaev/JS_EDU_3/issues"
+  },
+  "homepage": "https://github.com/Schislyaev/JS_EDU_3#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "description": "",
+  "dependencies": {
+    "jshint": "^2.13.4"
+  }
+}
