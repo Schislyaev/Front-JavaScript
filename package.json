@@ -16,10 +16,13 @@
   },
   "homepage": "https://github.com/Schislyaev/JS_EDU_3#readme",
   "devDependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "webpac": "^0.0.1-security",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
   },
-  "description": "",
   "dependencies": {
     "jshint": "^2.13.4"
-  }
+  },
+  "description": ""
 }
