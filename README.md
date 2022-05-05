@@ -1,7 +1,7 @@
 # Front-JavaScript
 
-Portfolio front-end 
-Stack: JS, Ajax, Node, Webpack
+Portfolio front-end<br>
+Stack: JS, Ajax, Node, Webpack<br>
 Fitures:
 1. Modals
 2. Sliders
